@@ -6,6 +6,4 @@ image: img/about-jumbotron.jpg
 ---
 body
 
-
-
-![](img/about-sustainable-farming.jpg)
+![](img/5ef5414d-d219-4292-a679-ed6f60fb2eaf.jpeg)
