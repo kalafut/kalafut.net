@@ -2,7 +2,6 @@
 layout: post
 title: Fixing Multi-Track Audio Playback for Plex on Samsung
 date: 2022-02-25T04:36:26.117Z
-description: "Intro "
 ---
 A [much](https://www.reddit.com/r/PleX/comments/a9pvyt/samsung_plex_tv_app_audio_track_playback_issue/) [complained about](https://forums.plex.tv/t/bug-samsung-plex-and-changing-audio-track/215752) issue with the otherwise pretty decent Plex app for Samsung TVs is that despite giving you the impression that you're choosing the audio track, the app actually only ever plays the first track. This is **very** annoying, and not that uncommon with my collection which has a lot of foreign films
 where the English track isn't the first item. I played with some of the proposed solutions.
