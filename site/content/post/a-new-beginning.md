@@ -23,12 +23,11 @@ And after…
 
 `Code type`
 
-```go
+Asdfadf
+
+```
 func A(b int) {
   var C string
 }
 ```
 
-Another Image:
-
-![](img/58960bf2-71be-4667-88da-ad1f59ac1573.jpeg)
