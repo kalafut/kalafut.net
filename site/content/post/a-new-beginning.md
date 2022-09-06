@@ -25,9 +25,8 @@ And after…
 
 Asdfadf
 
-```
+```go
 func A(b int) {
   var C string
 }
 ```
-
