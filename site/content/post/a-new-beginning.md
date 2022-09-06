@@ -31,4 +31,4 @@ func A(b int) {
 
 Another Image:
 
-![](img/image.jpg)
+![](img/58960bf2-71be-4667-88da-ad1f59ac1573.jpeg)
