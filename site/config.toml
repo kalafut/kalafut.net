@@ -9,6 +9,9 @@ title = "Homepage"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 theme="ezhil-custom"
 
+[params]
+  mode = "auto"
+
 [[menu.main]]
 name = "About"
 url = "/about"
