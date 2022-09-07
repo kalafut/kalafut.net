@@ -1,3 +1,23 @@
+# Notes
+
+### Local Development
+
+* Added `local_backend: true` to `site/static/admin/config.yml`
+* To use the Hugo server for serving blog/theme changes, run `hugo server` from `site` and visit http://localhost:1313. This doesn't include any netlify-cms capabilities but *does* allow LiveReload, which is really handy.
+* For a local version of the full netlify-cms:
+  * Use `npm start` to:
+    * Build the site
+    * Watch for changes and rebuild
+    * Handle requests at http://localhost:3000
+  * In a separate terminal start `npx netlify-cms-proxy-server`. Without this the admin login process won't work.
+  * Use http://localhost:3000/admin to access the netlify-cms UI. A password shouldn't be required.
+* "Publish" when local will create local files but does nothing with git or GitHub. A git commit and push is required to actually publish the updates.
+* I'm not sure, but it seemed like after some config or theme file updates I needed to restart things for everything to take effect?
+
+
+
+---
+
 # Hugo template for Netlify CMS with Netlify Identity
 
 This is a small business template built with [Hugo](https://gohugo.io) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
