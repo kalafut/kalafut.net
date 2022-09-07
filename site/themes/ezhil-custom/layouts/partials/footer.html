@@ -1,12 +1,9 @@
+<!--
 <div class="footer wrapper">
-	<nav class="nav">
-		<div>{{ with .Site.Copyright }} {{ . }} | {{ end }} <a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="https://gohugo.io">Hugo</a></div>
-	</nav>
+	This will be in light gray below a thing line, right-aligned.
 </div>
+-->
 
 {{ if not .Site.IsServer }}
-{{ template "_internal/google_analytics_async.html" . }}
+<script data-goatcounter="https://kalafut-blog.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 {{ end }}
-{{- with .Site.Params.Social -}}
-<script>feather.replace()</script>
-{{- end -}}
