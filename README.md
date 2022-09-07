@@ -13,7 +13,7 @@
   * Use http://localhost:3000/admin to access the netlify-cms UI. A password shouldn't be required.
 * "Publish" when local will create local files but does nothing with git or GitHub. A git commit and push is required to actually publish the updates.
 * I'm not sure, but it seemed like after some config or theme file updates I needed to restart things for everything to take effect?
-
+* Instructions on managing the Netlify Identity users: https://docs.netlify.com/visitor-access/identity/manage-existing-users/
 
 
 ---
