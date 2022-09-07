@@ -15,7 +15,7 @@ sites are so bad, you're left with trying to send a click event to an image buri
 the way of navigation helpers. In this case, Firefox's __Copy Unique Selector__ works well.  Just inspect the
 element and access the function via the dropdown:
 
-![Firefox Selector](/assets/firefox_selector.png)
+![Firefox Selector](/img/firefox_selector.png)
 
 This will give you something like:
 

@@ -27,7 +27,7 @@ Welcome back. Now that you've had a good laugh, let me describe what it's like f
 Alright, sometimes it's a not _too_ slow, but a lot of times it is. It's painful to try to fill up on a mid-Sunday morning and the stations
 look like:
 
-![Cluster](/assets/oil-embargo.jpg)
+![Cluster](/img/oil-embargo.jpg)
 
 And for what?? So after minutes of waiting, some guy can hand me a receipt and close the fuel door? Almost every person I know has
 pumped gas since they were 16 and never needed much assistance.

@@ -17,7 +17,7 @@ microservices architecture.
 Tracing provides insights into your app performance along with any errors and logs. You immediately
 see what conditions cause errors and how particular error affects app performance.
 
-![Uptrace tracing tool](/assets/tracing-graph.png)
+![Uptrace tracing tool](/img/tracing-graph.png)
 
 Using tracing, you can break down requests into
 [spans](https://opentelemetry.uptrace.dev/guide/distributed-tracing.html#spans). **Span** is an
@@ -27,7 +27,7 @@ network call.
 **Trace** is a tree of spans that shows the path that a request makes through an app. Root span is
 the first span in a trace.
 
-![Uptrace tracing tool](/assets/trace-graph.png)
+![Uptrace tracing tool](/img/trace-graph.png)
 
 To learn more about tracing, see
 [Distributed tracing using OpenTelemetry](https://opentelemetry.uptrace.dev/guide/distributed-tracing.html).
@@ -133,7 +133,7 @@ better performance.
 You can [install Uptrace](https://get.uptrace.dev/guide/opentelemetry-tracing-tool.html) by downloading a DEB/RPM package
 or a pre-compiled binary.
 
-![Uptrace tracing tool](/assets/uptrace.png)
+![Uptrace tracing tool](/img/uptrace.png)
 
 ## What's next?
 
