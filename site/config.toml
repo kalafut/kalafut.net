@@ -14,10 +14,15 @@ theme="ezhil-custom"
 
 [[menu.main]]
 name = "About"
-url = "/about"
+url = "/page/about"
 weight = 1
 
 [[menu.main]]
 name = "All posts"
 url = "/post"
 weight = 2
+
+[[menu.main]]
+name = "Kit"
+url = "/page/kit"
+weight = 3
