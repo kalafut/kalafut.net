@@ -1,6 +1,7 @@
 ---
 title: "zsh and Rake"
 layout: post
+date: 2014-01-04
 ---
 
 Octopress offers a ton of useful rake tasks, but they're somewhat hobbled

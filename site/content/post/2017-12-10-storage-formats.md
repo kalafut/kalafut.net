@@ -1,6 +1,7 @@
 ---
 title: JSON, MessagePack, Protobuf... LZMA don't care
 layout: post
+date: 2017-12-10
 ---
 
 I've often come across comparisons between JSON, [MessagePack](https://msgpack.org) and [Protocol Buffers](https://developers.google.com/protocol-buffers/) (protobuf) for transfer and/or storage. The conclusion usually ends up being: after compression, it doesn't matter. But when faced with the choice on my own project recently, I couldn't help thinking that reduced verbosity on the input could only be a benefit. Plus is just seems only proper to tightly pack integers and binary data, remove formatting that only benefits humans, etc. So naturally I had to try all three.

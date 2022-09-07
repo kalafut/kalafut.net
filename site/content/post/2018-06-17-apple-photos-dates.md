@@ -1,6 +1,7 @@
 ---
 title: Apple Photos Dates
 layout: post
+date: 2018-06-17
 ---
 
 The search for an acceptable digital photo management solution is neverending. Sometime I'll write about that

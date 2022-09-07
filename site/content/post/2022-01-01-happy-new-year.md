@@ -1,6 +1,7 @@
 ---
 title: Productivity tools in 2022
 layout: post
+date: 2022-01-01
 ---
 
 Welcome to 2022!

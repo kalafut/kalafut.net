@@ -1,6 +1,7 @@
 ---
 title: Single-App Django Projects
 layout: post
+date: 2017-08-06
 ---
 
 I've never benefitted from Django's multi-app architecture and find the hijacking of a precious

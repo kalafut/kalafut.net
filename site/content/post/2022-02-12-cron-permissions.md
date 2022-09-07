@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Thorny Cron Permission Issue
+date: 2022-02-12
 ---
 
 I recently gave the [restic](https://restic.net/) backup tool a try and was impressed. To date I've just relied on Apple's

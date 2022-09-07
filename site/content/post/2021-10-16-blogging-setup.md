@@ -1,6 +1,7 @@
 ---
 title: Blogging setup in 2021
 layout: post
+date: 2021-10-16
 ---
 
 I don't write much here, but I occasionally write _something_ and have done so for over 15 years

@@ -1,6 +1,7 @@
 ---
 title: WWV Simulator
 layout: post
+date: 2019-02-12
 ---
 
 I just released my [WWV Simulator](https://wwv.mcodes.org/) to the wild. This is something I've

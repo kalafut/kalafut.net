@@ -1,6 +1,7 @@
 ---
 title: Fossil to git
 layout: post
+date: 2016-01-24
 ---
 A while back I [dabbled with Fossil SCM]({% post_url 2015-01-29-fossil-1 %}). I liked parts of it but ended up returning to git. During that experiment,
 I created a fair bit of content in Fossil and wanted to get it out. I assumed this would be easy because I'd
