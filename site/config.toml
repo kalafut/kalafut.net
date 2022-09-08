@@ -7,10 +7,10 @@ title = "Jim Kalafut"
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
-theme="ezhil-custom"
+theme="cm-style"
 
 [params]
-  mode = "auto"
+#  mode = "auto"
 
 [[menu.main]]
 name = "About"

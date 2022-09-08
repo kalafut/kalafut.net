@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+<body>
+	{{ partial "head.html" . }}
+
+	{{ with .Content }}{{ . }}{{ end }}
+
+	<main class="page-content">
+		<div class="wrapper">
+			<div class="posts">
+				{{ $first := true }}
+				{{ $lastYear := "abc" }}
+
+				{{ range .Site.RegularPages }}
+				{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+
+				{{- else -}}
+
+				{{ $year := .Date.Year }}
+
+				{{ if ne $year $lastYear }}
+					{{ $lastYear = $year }}
+					{{ if $first }}
+						{{ $first = false }}
+					{{ else }}
+						<hr style="margin: 1em auto 1em; color: #eee; ">
+					{{ end }}
+					<h1>{{ .Date.Year }}</h1>
+				{{ end }}
+
+
+				<div class="post-list">
+					<a class="bold-link" href="{{ .RelPermalink }}"><strong>{{.Title}}</strong></a>
+				</div>
+				{{- end -}}
+				{{ end }}
+			</div>
+		</div>
+	</main>
+	{{ partial "footer.html" . }}
+</body>
+</html>
