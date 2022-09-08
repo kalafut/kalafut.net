@@ -32,7 +32,3 @@ name = "Family Tree"
 url = "/page/tree-invite"
 weight = 4
 
-[[menu.main]]
-name = "All posts"
-url = "/post"
-weight = 5
