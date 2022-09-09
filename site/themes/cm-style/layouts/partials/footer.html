@@ -1,9 +1,28 @@
-<!--
-<div class="footer wrapper">
-	This will be in light gray below a thing line, right-aligned.
-</div>
--->
+<footer class="site-footer">
+	<div class="wrapper">
+		<div class="footer-col-wrapper">
+			<div class="footer-col footer-col-1">
+				<ul class="contact-list">
+					<li>
+						Email: <a href="mailto:jim@kalafut.net">jim@kalafut.net</a>
+					</li>
+				</ul>
+			</div>
 
-{{ if not .Site.IsServer }}
-<script data-goatcounter="https://kalafut-blog.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-{{ end }}
+			<div class="footer-col footer-col-2">
+				<ul class="social-media-list">
+					<li>
+						Github: <a href="https://github.com/kalafut">kalafut</a>
+					</li>
+					<li>
+						LinkedIn: <a href="https://www.linkedin.com/in/kalafut">kalafut</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	{{ if not .Site.IsServer }}
+	<script data-goatcounter="https://kalafut-blog.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+	{{ end }}
+</footer>
