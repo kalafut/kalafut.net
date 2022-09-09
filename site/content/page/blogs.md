@@ -1,7 +1,6 @@
 ---
 title: Blogs
 layout: page
-date: 2022-09-07T21:39:24.139Z
 ---
 Blogs are great things to write, regardless of whether anyone reads them. They're the only diary I've ever even
 semi-regularly kept. I've always hosted my own blogs and feel strongly that entrusting your autobiography

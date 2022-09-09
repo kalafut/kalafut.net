@@ -1,6 +1,5 @@
 ---
 title: About
-date: 2022-08-26T04:48:51.791Z
 ---
 My name is Jim and I've liked technology for as long as I can remember. I've had hobbies and formal
 education in electronics, but software is my real passion and I've been working with it for a long time.

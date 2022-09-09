@@ -13,6 +13,3 @@ layout: page
 - Hetnzer VPS's
 - [2008 Toyota Prius](https://pd.kalafut.net/index.html%3Fp=28.html)
 
-
-
-This blog was made using [Hugo](https://gohugo.io). The source is in Github, and the site is built and served from [Netlify](https://netlify.com). I use [Netlify CMS](https://www.netlifycms.org/) to help manage it
