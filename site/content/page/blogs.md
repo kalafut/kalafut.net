@@ -11,7 +11,7 @@ A number of blogs have accumulated over the years. They're usually associated wi
 life, and I like the idea of putting them in read-only/archive mode when appropriate.
 
 - **[kalafut.net](http://kalafut.net)** (formerly *Brokenmold*)
-: My eponymous site, including a blog of opinions and tech odds and ends (2013--).
+: My eponymous site, including a blog of opinions and tech odds and ends (2013--). The site source is on [GitHub](https://github.com/kalafut/kalafut.net).
 
 - **[Oregon Life](http://blog.kalafut.net)<sup>*</sup>**
 : Our current, occasionally-updated family blog (2010--).
