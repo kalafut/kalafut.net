@@ -32,7 +32,7 @@ This a perplexing one. If nothing else I consider Cultured Code to be a premier 
 
 OK this is one is pretty small, but I encounter it multiple times per day. When you go to move a task to a Project, you get this dialog:
 
-![](/img/screenshot.png)
+{{< figure src="/img/screenshot.png" width=250 class="center" >}}
 
 I have a lot of projects and that search box at the top is really useful! But when I Share on iOS to Things and go to choose the Project, the dialog is identical except... no search box. So I scroll and scroll looking for the target Project.
 
