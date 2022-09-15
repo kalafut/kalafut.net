@@ -1,9 +1,9 @@
 ---
 title: My Patience for "Things" is Running Low
 date: 2022-09-15T15:53:21.846Z
-draft: true
+draft: false
 ---
-[Things](https://culturedcode.com/things) is one of the best designed apps for iOS and Mac, and it has been my task list of choice for many years. I've been happy with it, and really enjoy its ergonomics vs. Todoist, which I was coming from. Yet my patience is running low.
+[Things](https://culturedcode.com/things) is one of the best designed apps for iOS and Mac, and it has been my task management app of choice for many years. I've been happy with it, and really enjoy its ergonomics vs. Todoist, which I was coming from. Yet my patience is running low.
 
 Things has clearly been actively development, as shown on their excellent [release notes](https://culturedcode.com/things/support/articles/1100684/) . Yet I also feel it has stagnated in the areas I care about. There is often healthy discussion around when software can just be considered "Done", and how a lack of new marquee features doesn't necessarily indicate a problem. My argument to that would be it is entirely dependent on the user as to what they consider Done, and the author needs to communicate their version of the status.
 
@@ -29,8 +29,17 @@ This a perplexing one. If nothing else I consider Cultured Code to be a premier 
 
 #### Search in share sheets
 
-OK this is really small, but I encounter it multiple times per day.
+OK this is one is pretty small, but I encounter it multiple times per day. When you go to move a task to a Project, you get this dialog:
+
+![](img/screenshot.png)
+
+I have a lot of projects and that search box at the top is really useful! But when I Share on iOS to things and go to choose the Project, the dialog is identical except... no search box. So I scroll and scroll looking for the target Project.
+
+I've written them about this about have received nothing but a stock email responder reply. This is the sort of small refinement I actually expect them to be working on, but I have no idea if this change has been considered, rejected, nothing.
 
 #### Bug Fixes
 
 It's clear that Cultured Code is committed to quality and is constantly refining the apps. So I was surprised when, after providing a detailed repro doc about broken repeating tasks, their response was simply that they're working on a major overhaul to the repeating system and had to ETA to fix the bug. A similar bug reported in the App Store got the same response. While I understand their focus is on the "real" fix of shift to the new system, something as core as repeating tasks can just linger in a broken state.
+
+### Conclusion
+I do hope Cultured Code changes their ways. They have an excellent product, and I don't want them to falter because of an overly conservative, non-communicative posture. Ship a Things 4, ask me for a monthly or yearly fee, and enjoy that recurring revenue. I'll happily pay, provided they provide a few more peeks behind the curtain once in a while.
