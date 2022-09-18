@@ -3646,7 +3646,10 @@ figure {
   line-height: 2rem;
   margin-bottom: 1rem; }
   .footer a {
-    color: #1565c0; }
+    color: #212121; }
+    .footer a:hover, .footer a:focus {
+      color: #1565c0;
+      text-decoration: none; }
 
 .float-container {
   bottom: 2rem;
