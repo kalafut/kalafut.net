@@ -54,3 +54,6 @@ weight = 4
   icon = "fa fa-envelope"
   weight = 3
   url = "mailto:jim@kalafut.net"
+
+[params.goatCounter]
+  code = "https://kalafut-blog.goatcounter.com/count"
