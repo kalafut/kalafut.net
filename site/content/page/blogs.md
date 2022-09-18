@@ -7,18 +7,14 @@ semi-regularly kept. I've always hosted my own blogs and feel strongly that entr
 only to Twitter and/or Facebook is a risky idea.
 
 A number of blogs have accumulated over the years. They're usually associated with some phase of my (our)
-life, and I like the idea of putting them in read-only/archive mode when appropriate.
+life, and I like the idea of putting them in [read-only/archive mode](/posts/2016-05-21-staticizing_wordpress/) when appropriate.
 
-- **[kalafut.net](http://kalafut.net)** (formerly *Brokenmold*)
-: My eponymous site, including a blog of opinions and tech odds and ends (2013--). The site source is on [GitHub](https://github.com/kalafut/kalafut.net).
+### Active
+- **[kalafut.net](http://kalafut.net)**: My eponymous site, including a blog of opinions and tech odds and ends (2013--). It is built with [Hugo](https://gohugo.io) and [Coder](https://github.com/luizdepra/hugo-coder). Source code is on [GitHub](https://github.com/kalafut/kalafut.net).
 
-- **[Oregon Life](http://blog.kalafut.net)<sup>*</sup>**
-: Our current, occasionally-updated family blog (2010--).
 
-- **[Peoria Dispatch](http://pd.kalafut.net)<sup>*</sup>**
-: Life after New Zealand (2008--2010).
+### Archive/read-only mode
 
-- **[NZ Life](http://nz.kalafut.net)<sup>*</sup>**
-: Chronicles of our New Zealand adventure (2005--2007).
-
-\* Archive/read-only mode
+- **[Oregon Life](http://blog.kalafut.net)**: An occasionally-updated family blog (2010--2015).
+- **[Peoria Dispatch](http://pd.kalafut.net)**: Life after New Zealand (2008--2010).
+- **[NZ Life](http://nz.kalafut.net)**: Chronicles of our New Zealand adventure (2005--2007).
