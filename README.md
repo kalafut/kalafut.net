@@ -14,6 +14,10 @@
 * "Publish" when local will create local files but does nothing with git or GitHub. A git commit and push is required to actually publish the updates.
 * I'm not sure, but it seemed like after some config or theme file updates I needed to restart things for everything to take effect?
 * Instructions on managing the Netlify Identity users: https://docs.netlify.com/visitor-access/identity/manage-existing-users/
+* The theme is a submodule located at: https://github.com/kalafut/hugo-coder-custom
+  * Changes in the subdirectory are reflected immediately in local dev mode.
+  * Remember to push up submodule changes.
+  * To actually see changes in the published site, run bare `hugo` which will regenerate assets that should be committed and pushed. I'm not sure whether this workflow is technically correct, but I don't much care as it is rare that I'll be updating the theme files.
 
 
 ---
