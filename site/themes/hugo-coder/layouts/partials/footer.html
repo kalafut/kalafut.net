@@ -1,0 +1,24 @@
+<footer class="footer">
+  <section class="container">
+    <div style="float: left">
+    ©
+    {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}
+      {{ .Site.Params.since }} -
+    {{ end }}
+    {{ now.Year }}
+    {{ with .Site.Params.author }} {{ . }} {{ end }}
+    </div>
+    <div style="float: right">
+{{ with .Site.Params.social }}
+  {{ range sort . "weight" }}
+  <a style="color: #dadada; margin:.5em;" href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }}>
+    <i class="{{ .icon }}" aria-hidden="true"></i>
+  </a>
+  {{ end }}
+{{ end }}
+    </div>
+  </section>
+</footer>
+<div style="padding: 2.5em">
+  <!-- Leaving some room so the light/dark icon doesn't cover the social icons -->
+</div>

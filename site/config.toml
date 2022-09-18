@@ -7,10 +7,15 @@ title = "Jim Kalafut"
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["taxonomy", "taxonomyTerm"]
-theme="cm-style"
+#theme="cm-style"
+theme="hugo-coder"
 
 [params]
 #  mode = "auto"
+colorScheme = "auto"
+author = "Jim Kalafut"
+#since = "2013"
+
 
 [[menu.main]]
 name = "About"
@@ -32,3 +37,20 @@ name = "Family Tree"
 url = "/page/tree-invite"
 weight = 4
 
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/kalafut/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  weight = 3
+  url = "https://www.linkedin.com/in/kalafut/"
+
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope"
+  weight = 3
+  url = "mailto:jim@kalafut.net"
