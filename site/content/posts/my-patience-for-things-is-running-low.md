@@ -40,7 +40,7 @@ I've written them about this but have received nothing but a stock email respond
 
 ## Bug Fixes
 
-It's clear that Cultured Code is committed to quality and is constantly refining the apps. So I was surprised when, after providing a detailed repro doc about broken repeating tasks, their response was simply that they're working on a major overhaul to the repeating system and had to ETA to fix the bug. A similar bug reported in the App Store got the same response. While I understand their focus is on the "real" fix of shifting to the new system, something as core as repeating tasks can't just linger in a broken state.
+It's clear that Cultured Code is committed to quality and is constantly refining the apps. So I was surprised when, after providing a detailed repro doc about broken repeating tasks, their response was simply that they're working on a major overhaul to the repeating system and had no ETA for fixing the bug. A similar bug reported in the App Store got the same response. While I understand their focus is on the "real" fix of shifting to the new system, something as core as repeating tasks can't just linger in a broken state.
 
 # Conclusion
-I do hope Cultured Code changes their ways. They have an excellent product, and I don't want them to falter because of an overly conservative, non-communicative posture. Ship a Things 4, ask me for a monthly or yearly fee, and enjoy that recurring revenue. I'll happily pay, provided they provide a few more peeks behind the curtain once in a while.
+I do hope Cultured Code changes their ways. They have an excellent product, and I don't want them to falter because of an overly conservative, non-communicative posture. Ship a Things 4, ask me for a monthly or yearly fee, and enjoy that recurring revenue. I'll happily pay, provided they offer a few more peeks behind the curtain once in a while.
