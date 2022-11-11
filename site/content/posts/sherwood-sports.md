@@ -13,7 +13,7 @@ One comment about the site was interesting and reaffirmed my initial motivation 
 
 The tech behind the site was fun to work with. I started with React but landed on [Svelte](https://svelte.dev). It is a joy to use, even as a newbie. And I opted to just bake all of the data into the source which made the "stack" extremely simple. The whole thing is built with GitHub Actions and and served from GitHub. No databases, no servers. Wonderful.
 
-I'm definitely weakest at UI when it comes to almost any of these project. I very briefly flirted with using the project to try [Tailwind](https://tailwindcss.com) and quickly realized it was beyond what I wanted to spend time learning. So back to plain ol' Bootstrap. I'm pretty sure folks who are looking looking for what this site provides couldn't care less if the appearance is pretty generic.
+I'm definitely weakest at UI when it comes to almost any of these project. I very briefly flirted with using the project to try [Tailwind](https://tailwindcss.com) and quickly realized it was beyond what I wanted to spend time learning. So back to plain ol' [Bootstrap](https://getbootstrap.com). I'm pretty sure folks who are looking looking for what this site provides couldn't care less if the appearance is pretty generic.
 
 Overall, I'm happy with the site and reception. It has been a while since one of the projects got some traction, and using Svelte in earnest was a delight and definitely worth spending time on.
 
