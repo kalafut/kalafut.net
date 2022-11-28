@@ -5,7 +5,7 @@ draft: false
 ---
 While it may look the same, everything to build and deliver this site has changed. Here's a look at what and why.
 
-I wrote about [my blogging setup](/post/2021-10-16-blogging-setup) roughly a year ago, and in that post a couple of key motivations for the move to GitHub were:
+I wrote about [my blogging setup](/posts/2021-10-16-blogging-setup) roughly a year ago, and in that post a couple of key motivations for the move to GitHub were:
 
 * Get away from relying on building on Mac and pushing to S3
 * Leverage the GitHub UI for small edits
