@@ -1,7 +1,7 @@
 ---
 title: Pay to Play (Chess)
 date: 2023-07-02T16:08:24.590Z
-draft: true
+draft: false
 ---
 It is summer break, so it is time to figure out how to keep the kids busy. This challenge has changed over the years. When they were younger, we'd rely on the summer programs offered by local daycare providers, and that would usually cover us for most of the day. Now it is a complicated, expensive patchwork work of camps. These schedules are all over the place, which usually means there are days or sometimes a whole week of downtime.
 
