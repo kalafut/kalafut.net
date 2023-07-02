@@ -1,5 +1,5 @@
 ---
-title: Pay to Play
+title: Pay to Play (Chess)
 date: 2023-07-02T16:08:24.590Z
 draft: true
 ---
