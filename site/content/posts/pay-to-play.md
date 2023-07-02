@@ -23,7 +23,7 @@ But what exactly would they be doing to earn money? I decided early that this wo
 * Games — 7.7¢ / ⭐️ 
 * Lessons — 50¢
 
-For stuff like lessons, they can grind through. But on both puzzles and games, there is an incentive to improve. You don’t get any stars if you fail the puzzle. And a won game nets you ten stars vs. 3 for a loss. This seems like the right level of “achievement” factor in this thing.
+For stuff like lessons, they can grind through to earn money. But on both puzzles and games, there is an incentive to improve. You don’t get any stars if you fail the puzzle. And a won game nets you 10 stars vs. 3 for a loss. This seems like the right level of “achievement” factor in this thing.
 
 Oh, one last factor. There is a $20/week cap. That is quite a bit of money for them, but reaching that would result in over 6 hours of chess for the week, which is a commendable summer break focus. 
 
