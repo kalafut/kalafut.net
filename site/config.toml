@@ -31,10 +31,10 @@ name = "Kit"
 url = "/page/kit"
 weight = 3
 
-[[menu.main]]
-name = "Family Tree"
-url = "/page/tree-invite"
-weight = 4
+# [[menu.main]]
+# name = "Family Tree"
+# url = "/page/tree-invite"
+# weight = 4
 
 # Social links
 [[params.social]]
