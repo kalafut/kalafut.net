@@ -56,3 +56,9 @@ weight = 3
 
 [params.goatCounter]
   code = "kalafut-blog"
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
