@@ -1,7 +1,7 @@
 ---
 title: All the Blog Posts
 date: 2023-09-19T05:38:08.884Z
-draft: true
+draft: false
 ---
 I've _finally_ imported all of the previous blog posts (from the [other blogs](/page/blogs)) into the main index. This turned out to be not too painful, since all of the blogs were WordPress so the title and date were consistently placed in the HTML. The goal here was only to bring over those elements and surface them on the main page, with a little stub post that redirects to the original, statically preserved site.
 
