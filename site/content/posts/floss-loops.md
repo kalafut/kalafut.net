@@ -11,7 +11,7 @@ I switched to Placker’s. They do work well, but I was bothered by using a big,
 
 Whereas a Placker closes a loop using plastic, you can instead make a loop with the floss itself:
 
-![](img/file.jpg)
+![](/img/file.jpg)
 
 By having a loop, you can get a firm hold of the floss, and the floss the floss can’t slip out, no matter how smooth it is. An added advantage is that it is easy to rotate the loop as you floss, which lets you put the entire length to use.
 
