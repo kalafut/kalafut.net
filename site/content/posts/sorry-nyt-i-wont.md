@@ -9,6 +9,6 @@ This is a close cousin to the renewal BS I [wrote about previously](/posts/the-s
 
 
 
-**I Just Want To Cancel**. I don't want call anyone, and I don't want to chat with anyone. Amazing that this dark pattern continues to legally survive. Fortunately Privacy.com has my back, so having pulled the card now I'll see these emails every day until NYT eventually gives up on me:
+**I Just Want To Cancel**. I don't want call anyone, and I don't want to chat with anyone. Amazing that this dark pattern continues to legally survive. Fortunately [privacy.com](https://privacy.com) has my back, so having pulled the card now I'll see these emails every day until NYT eventually gives up on me:
 
 `Transaction decline notification`
