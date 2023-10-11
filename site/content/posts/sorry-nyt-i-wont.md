@@ -5,7 +5,7 @@ draft: false
 ---
 This is the BS I [wrote about previously](/posts/the-subscription-renewal-drill/):
 
-![](img/nyt_cancel.png)
+![](/img/nyt_cancel.png)
 
 
 
