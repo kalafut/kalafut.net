@@ -3,7 +3,7 @@ title: Sorry, NYT, I choose neither
 date: 2023-10-11T16:43:05.520Z
 draft: false
 ---
-This is the BS I [wrote about previously](/posts/the-subscription-renewal-drill/):
+This is a close cousin to the renewal BS I [wrote about previously](/posts/the-subscription-renewal-drill/). In this case we're cutting back and ending a subscription outright:
 
 ![](/img/nyt_cancel.png)
 
