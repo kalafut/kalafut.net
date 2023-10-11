@@ -1,5 +1,5 @@
 ---
-title: Sorry, NYT, I won't
+title: Sorry, NYT, I choose neither
 date: 2023-10-11T16:43:05.520Z
 draft: false
 ---
