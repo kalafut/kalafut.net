@@ -3,15 +3,15 @@ title: The Dangerous Life of a Pedestrian in America
 date: 2024-01-13T16:39:03.063Z
 draft: true
 ---
-Today I was leaving the store and what drove by neatly captured America's attitude towards pedestrians. It was an F350 outfitted with a heavily customized "Iron Cross" front bumper that had actual spikes on it. 
+Today I was leaving the store and what drove by neatly captured America's attitude towards pedestrians. It was an F350 outfitted with a heavily customized "Iron Cross" front bumper that had actual spikes on it.
 
 ![](img/bumper.jpg)
 
-The above isn't the actual truck, which I didn't catch a photo in time for, but it was similar to [this project on Reddit](https://www.reddit.com/r/Trucks/comments/10z8iea/thinking_about_mass_production_of_this_bumper/). Why is he allowed the drive this thing in public?
+I didn't catch a photo in time, but the one from [this project on Reddit](https://www.reddit.com/r/Trucks/comments/10z8iea/thinking_about_mass_production_of_this_bumper/) is similar. Why is he allowed to drive this thing in public? Easy: because he can.
 
-# Because He Can
+Given the country's anemic pedestrian protection laws, someone wanting to drive a dangerous vehicle has wide latitude. We're decades behind many countries in establishing basic protections and are fighting a pervasive attitude that pedestrians really don't matter. It's not just that the US is car-loving, and much urban planning revolves around it. Many folks are outright anti-pedestrian.
 
-They have wide latitude given the country's anemic pedestrian protection laws. We're decades behind many countries and fighting a pervasive attitude that pedestrians really don't matter. It's not just that the US is car-loving and all urban planning revolves around it. Many folks are outright anti-pedestrian. They'll concede to having sidewalks, but are annoyed that pedestrians might want to cross busier roads. Pedestrian right-of-way law are often mocked, and regularly ignored. In my own neighborhood, a clearly marked crosswalk is nearly impossible to cross during rush hour. People won't even notice that you're trying to cross. My attempts at getting a flashing crossing light installed haven't yielded much. The opposition is from the county: the flashing light might cause traffic to back up, which could in turn affect cars on a larger highway. The priority here is pretty clear. Yes, the pedestrian has the right of way, but it's really up to them to exercise that right.
+While people will concede to having sidewalks, they're annoyed when pedestrians might want to cross busier roads. Pedestrian right-of-way laws are often mocked, and regularly ignored. In my neighborhood, a marked crosswalk is nearly impossible to cross during rush hour. People won't even notice that you're trying to cross. My attempts at getting a crossing light installed haven't yielded much. The opposition is from the county: the flashing light might cause traffic to back up, affecting cars on a larger highway. The priority here is pretty clear. Yes, the pedestrian has the right of way, but it's really up to them to figure out how to exercise that right without getting killed.
 
 # Equipment
 
