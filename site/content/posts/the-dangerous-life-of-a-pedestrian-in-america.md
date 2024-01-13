@@ -1,7 +1,7 @@
 ---
 title: The Dangerous Life of a Pedestrian in America
 date: 2024-01-13T16:39:03.063Z
-draft: true
+draft: false
 ---
 Today I was leaving the store and what drove by neatly captured America's attitude towards pedestrians. It was an F350 outfitted with a heavily customized "Iron Cross" front bumper that had actual spikes on it.
 
