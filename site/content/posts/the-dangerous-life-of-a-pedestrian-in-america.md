@@ -7,7 +7,7 @@ Today, I was leaving the store and what drove by neatly captured America's attit
 
 ![](/img/bumper.jpg)
 
-The above isn't the actual truck, which I didn't catch a photo of in time, but it is similar to a [project on Reddit](https://www.reddit.com/r/Trucks/comments/10z8iea/thinking_about_mass_production_of_this_bumper/). Why is he allowed to drive this thing in public? Easy: because he can.
+The above isn't the actual truck, which I didn't catch a photo of in time, but it looked similar ([Reddit source](https://www.reddit.com/r/Trucks/comments/10z8iea/thinking_about_mass_production_of_this_bumper/)). Why is he allowed to drive this thing in public? Easy: because he can.
 
 Given the country's anemic pedestrian protection laws, someone wanting to drive a dangerous vehicle has wide latitude. We're decades behind many countries in establishing basic protections and are fighting a pervasive attitude that pedestrians really don't matter. It's not just that the US is car-loving, and much urban planning revolves around it. Many folks are outright anti-pedestrian.
 
