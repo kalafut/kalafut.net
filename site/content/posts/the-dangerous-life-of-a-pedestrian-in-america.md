@@ -28,4 +28,4 @@ These devices are not particularly costly and can be retrofitted easily. When I 
 
 But, at least on the side-guard issue, there is *some* movement. Individual municipalities are taking action, and there is technical support from the government ([Volpe](https://www.volpe.dot.gov/LPDs) to help with these efforts.
 
-Changing the culture and attitudes will take longer and starts with awareness (hence this blog post).
+Changing the culture and attitudes will take longer and starts with awareness (hence this blog post). I look forward to the day when pedestrian safety is viewed as an obligation and not a nuisance.
