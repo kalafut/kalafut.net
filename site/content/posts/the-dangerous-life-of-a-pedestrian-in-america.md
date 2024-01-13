@@ -3,9 +3,9 @@ title: The Dangerous Life of a Pedestrian in America
 date: 2024-01-13T16:39:03.063Z
 draft: false
 ---
-Today I was leaving the store and what drove by neatly captured America's attitude towards pedestrians. It was an F350 outfitted with a heavily customized "Iron Cross" front bumper that had actual spikes on it.
+Today, I was leaving the store and what drove by neatly captured America's attitude towards pedestrians. It was an F350 outfitted with a heavily customized "Iron Cross" front bumper with actual spikes.
 
-![](img/bumper.jpg)
+![](/img/bumper.jpg)
 
 I didn't catch a photo in time, but the one from [this project on Reddit](https://www.reddit.com/r/Trucks/comments/10z8iea/thinking_about_mass_production_of_this_bumper/) is similar. Why is he allowed to drive this thing in public? Easy: because he can.
 
