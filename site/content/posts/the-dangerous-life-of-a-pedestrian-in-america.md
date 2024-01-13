@@ -16,7 +16,7 @@ While people will concede to having sidewalks, they're annoyed when pedestrians 
 
 Back to our friend with the Mad Max-inspired truck. US trucks (and some cars) are commonly equipped with more modest [bullbars](https://en.wikipedia.org/wiki/Bullbar) which greatly increase the danger to pedestrians. (As if it isn't already dangerous enough with everyone driving a monster truck?) Illegal or heavily regulated in many countries, they're commonplace here. What value do these provide to the suburbanites I see driving around the neighborhood? Simple: they complete the rugged, macho picture. I constantly see huge trucks adorned with outdoorsy accessories like winches, fuel tanks, and bullbars. Maybe these see use in the wilderness occasionally, but more likely they're used to pick up groceries, or the kids. 
 
-Changing individual attitudes and culture is tough, long-term effort. But there other, well-defined opportunities for improvement. The biggest is the trucking industry. Truck side guards are ubiquitous (and often required by law) in many countries and have been shown to substantially reduce the chance of fatal injury to cyclists and vehicles in the event of a collision. But in the US, you rarely see them.
+Changing individual attitudes and culture is a tough, long-term effort. But there are other more well-defined opportunities for improvement. The biggest is the trucking industry. Truck side guards are ubiquitous (and often required by law) in many countries and have been shown to substantially reduce the chance of fatal injury to cyclists and vehicles in the event of a collision. But in the US, you rarely see them.
 
 ![](/img/sideguard.jpg)
 
