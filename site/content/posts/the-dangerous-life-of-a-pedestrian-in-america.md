@@ -22,7 +22,7 @@ Changing individual attitudes and culture is a tough, long-term effort. But ther
 
 The difference between a cyclist deflecting off versus going under this truck is pretty obvious. Advocacy campaigns (e.g. [The Jessica Campaign](http://thejessicacampaign.ca)) for side guards are often prompted by tragedies involving cyclists. When folks learn how a simple modification could have prevented the worst, there is interest in taking action.
 
-Less obvious is the protection also afforded to those in cars that a side (or rear) guard can make. ([This test demonstration](https://www.youtube.com/watch?v=bKP5Djjt2Vs)) shows how a side guard can mean the difference between a survivable collision and being decapitated.
+Less obvious is the protection also afforded to those in cars that a side (or rear) guard can make. This [test demonstration](https://www.youtube.com/watch?v=bKP5Djjt2Vs) dramatically shows how a side guard can mean the difference between a survivable collision and being decapitated.
 
 These devices are not particularly costly and can be retrofitted easily. When I was in London last summer, I noticed that even small trucks with a little ground clearance would have side guards. The US lags far behind despite government-funded studies about their efficacy and recommendations supporting them. The reason is, of course, a history of industry lobbying against them. This isn't a surprise, given the disregard for pedestrian safety, even at an individual level.
 
