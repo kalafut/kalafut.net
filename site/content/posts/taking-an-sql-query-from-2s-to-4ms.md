@@ -16,15 +16,15 @@ First check: **indexes**. Was I properly indexing the timestamp? No! Surely that
 
 Second check: **LIKE query**. My quickly thrown-together query system probably was searching for things it didn't need to. So I tried some versions without that clause at all and... 😕
 
-At this point I just start "bisecting" between fast and slow versions of this query and landed on the culprit:
+At this point I just started "bisecting" between fast and slow versions of this query and landed on the culprit:
 
 `ORDER BY created DESC`
 
-This seemed innocuous enough, especially with the index in place, but the problem was that I wasn't sorting on integer timestamps, but rather on was `created` really was:
+This seemed innocuous enough, especially with the index in place, but the problem was that I wasn't sorting on integer timestamps, but rather on what `created` really is:
 
 `strftime('%Y-%m-%d %H:%M:%f', datetime(created_ms/1000.0, 'unixepoch', '-8 hours'))`
 
-This meant SQLite was first formatting the times of *all* rows in the table and then sorting on that. I changed this bit to:
+This meant SQLite was first formatting the times of *all* rows in the table (millions) and then sorting on that. I updated the `ORDER BY` expression to:
 
 `ORDER BY created_at DESC`
 
