@@ -28,4 +28,6 @@ This meant SQLite was first formatting the times of *all* rows in the table (mil
 
 `ORDER BY created_at DESC`
 
-and 2 second query times dropped to 4ms! 
+and 2 second query times dropped to 4ms!
+
+*2/15/2024 update: I've  realized that I should drop the time index and just rely on the row id, which is already providing the sort key I need.*
