@@ -40,10 +40,10 @@ So much of Trump & sons asking for money.
 There aren't even links to learn more about these things, and it is usually just people repeating the same thing repeatedly, and saying you're a traitor if you question anything. 🥱
 
 ### Fact-free Zone
-On the contrary, when people post more scientific stuff, like NASA publishing a report about some research, the usual response is that it is all fake, made up, and that the agency is a deep state construct. Who can actually take offense to a finding that there are earthquakes on the moon?!? Truth Social, apparently!
+On the contrary, when people post more scientific stuff, like NASA publishing a report about some research, the usual response is that it is all fake, made up, and that the agency is a deep state construct. This is genuinely strange to me. Who can actually take offense to a finding that there are earthquakes on the moon?!? Truth Social, apparently!
 
 ### Low quality
-For example from yesterday:
+For example, from yesterday:
 
 "Our military is a disgrace to our soldiers."
 
