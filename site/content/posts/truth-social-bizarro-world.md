@@ -36,6 +36,7 @@ So much of Trump & sons asking for money.
 * "Joe is in gitmo!"
 * "Joe is dead!"
 * "Nancy and the CIA colluded to make J6 happen!"
+
 There aren't even links to good justification for this stuff, and it is just people repeating it and saying you're a traitor if you question anything. 🥱
 
 ### Fact-free Zone
