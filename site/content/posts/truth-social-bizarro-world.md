@@ -37,7 +37,7 @@ So much of Trump & sons asking for money.
 * "Joe is dead!"
 * "Nancy and the CIA colluded to make J6 happen!"
 
-There aren't even links to good justification for this stuff, and it is just people repeating it and saying you're a traitor if you question anything. 🥱
+There aren't even links to learn more about these things, and it is usually just people repeating the same thing repeatedly, and saying you're a traitor if you question anything. 🥱
 
 ### Fact-free Zone
 On the contrary, when people post more scientific stuff, like NASA publishing a report about some research, the usual response is that it is all fake, made up, and that the agency is a deep state construct. Who can actually take offense to a finding that there are earthquakes on the moon?!? Truth Social, apparently!
