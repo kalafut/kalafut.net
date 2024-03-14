@@ -45,9 +45,9 @@ On the contrary, when people post more scientific stuff, like NASA publishing a 
 ### Low quality
 For example, from yesterday:
 
-"Our military is a disgrace to our soldiers."
+>"Our military is a disgrace to our soldiers."
 
-This doesn't make sense. Maybe the person meant "military leadership"? The problem is that many comments are this type of word salad that is hard to understand. It is tedious to read.
+That doesn't make any sense. Maybe the person meant "military leadership"? The problem is that many comments are this type of word salad that is hard to understand. It is tedious to read.
 
 ## Conclusion
 
