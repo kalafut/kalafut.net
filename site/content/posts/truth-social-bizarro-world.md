@@ -47,7 +47,7 @@ For example, from yesterday:
 
 >"Our military is a disgrace to our soldiers."
 
-That doesn't make any sense. Maybe the person meant "military leadership"? The problem is that many comments are this type of word salad that is hard to understand. It is tedious to read.
+That doesn't make any sense. Maybe the person meant "military leadership"? The problem is that many comments are sloppy like this and hard to understand. It is tedious to read.
 
 ## Conclusion
 
