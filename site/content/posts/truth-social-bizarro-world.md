@@ -27,7 +27,7 @@ I'm sure conservatives want to discuss more than Trump, but it is not easy to fi
  An article will be posted, and then there will be 100s of "#MAGA", "#FJB", "#Bidenomics", etc. type comments. That's literally the whole comment. It is just noisy garage that adds nothing and makes it hard to find more substantive posts.
 
 ### Ads
-Lots of ads trying to sell me gold, prepper supplies, weird investment schemes, Trump/flag/eagle/FJB clothing.
+Lots of ads trying to sell me gold, prepper supplies, weird investment schemes, clothing featuring Trump, flags, eagles, FJB, etc.
 
 ### Begging
 So much of Trump & sons asking for money.
@@ -37,7 +37,7 @@ So much of Trump & sons asking for money.
 * "Joe is dead!"
 * "Nancy and the CIA colluded to make J6 happen!"
 
-There aren't even links to learn more about these things, and it is usually just people repeating the same thing repeatedly, and saying you're a traitor if you question anything. 🥱
+There aren't even links to learn more about the theory, and it is usually just people repeating the same thing as the last comment (and saying you're a traitor if you question anything). 🥱
 
 ### Fact-free Zone
 On the contrary, when people post more scientific stuff, like NASA publishing a report about some research, the usual response is that it is all fake, made up, and that the agency is a deep state construct. This is genuinely strange to me. Who can actually take offense to a finding that there are earthquakes on the moon?!? Truth Social, apparently!
