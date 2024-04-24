@@ -3,7 +3,7 @@ title: Premature Architecture
 date: 2024-04-24T17:47:54.247Z
 draft: false
 ---
-A few months ago, I started learning Flutter to build an app I'd been thinking about for a while. I joined the various Flutter-centric communities and followed developers who were active in the space. Overall, I've thoroughly enjoyed both the framework and the community dialog. But one element jumped out right away: a tremendous amount of material put out, both in social media and spammy Medium posts, bikeshedding over what I considered very "big software" topics like architecture. I was taken aback since most of the software to be built is a mobile app, and often by a single developer. Whatever gets people over the finish line is what these folks need, so all this Architecture discussion seems like quite a distraction. There has been some pushback, for example, this excellent tweet thread:
+A few months ago, I started learning [Flutter](https://flutter.dev/) to build an app I'd been thinking about for a while. I joined the various Flutter-centric communities and followed developers who were active in the space. Overall, I've thoroughly enjoyed both the framework and the community dialog. But one element jumped out right away: a tremendous amount of material put out in social media and spammy Medium posts, bikeshedding over what I considered "big software" topics like architecture. I was taken aback since most of the Flutter usage was for building a mobile app, and it was often done by a single developer. Whatever gets these people over the finish line is they needed, so all this Architecture discussion seems like quite a distraction. There has been some pushback, for example, this excellent tweet thread:
 
 https://x.com/peteralexbizjak/status/1783015772463263938
 
