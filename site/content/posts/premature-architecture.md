@@ -3,13 +3,13 @@ title: Premature Architecture
 date: 2024-04-24T17:47:54.247Z
 draft: false
 ---
-A few months ago, I started learning [Flutter](https://flutter.dev/) to build an app I'd been thinking about for a while. I joined the various Flutter-centric communities and followed developers who were active in the space. Overall, I've thoroughly enjoyed both the framework and the community dialog. But one element jumped out right away: a tremendous amount of material put out in social media and spammy Medium posts, bikeshedding over what I considered "big software" topics like architecture. I was taken aback since most of the Flutter usage was for building a mobile app, and it was often done by a single developer. Whatever gets these people over the finish line is they needed, so all this Architecture discussion seems like quite a distraction. There has been some pushback, for example, this excellent tweet thread:
+A few months ago, I started learning [Flutter](https://flutter.dev/) to build an app I'd been thinking about for a while. I joined the various Flutter-centric communities and followed developers who were active in the space. Overall, I've thoroughly enjoyed both the framework and the community dialog. But one element jumped out right away: a tremendous amount of material put out in social media and spammy Medium posts, bikeshedding over what I considered "big software" topics like architecture. I was taken aback since most of the Flutter usage was for building a mobile app, and it was often done by a single developer. Whatever gets these people over the finish line is they needed, so all this Architecture discussion seemed like quite a distraction. There has been some pushback, for example, this excellent tweet thread:
 
 https://x.com/peteralexbizjak/status/1783015772463263938
 
 *(Apologies to those without a Twitter account who can't view the thread. Thanks Elon.)*
 
-First, a little history about how I was first introduced to programming.
+This topic has been gnawing at me enough to actually write a blog post, but first, a little history about how I was first introduced to programming.
 
 ### Foundations
 
@@ -18,7 +18,7 @@ We got our first computer in 1986, and it looked like this:
 
 ![](/img/att_6300.png)
 
-Sitting at a DOS prompt and then starting [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC) was pretty much how everything began for me for quite a while. I just wanted to make the computer do things (like, for example, drawing a line on the screen), and the resources I had were the inscrutable system manuals (the binders to the left), one book from [B. Dalton](https://en.wikipedia.org/wiki/B._Dalton), and a lot of time as a kid. Importantly, I *didn't* have the entire internet telling me the right way, best practices, don't do that, OMG did you really just, etc. etc. I just wrote code however the hell I wanted until the program worked like I thought it should. The code was just a means to an end, which was a working program.
+Sitting at a DOS prompt and then starting [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC) was pretty much how everything began for me for quite a while. I just wanted to make the computer do things (like, for example, drawing a line on the screen), and the resources I had were the inscrutable system manuals (the binders to the left), one book on BASIC from now-defunct [Borders Books](https://en.wikipedia.org/wiki/Borders_Group), and a lot of time as a kid. Importantly, I *didn't* have the entire internet telling me the right way, best practices, don't do that, OMG did you really just, etc. etc. I just wrote code however the hell I wanted until the program worked like I thought it should. The code was just a means to an end, which was a working program.
 
 As I progressed, got a modem and access to more material, and got some more books, I started learning some valuable CS ideas that undoubtedly helped. These were important because they usually made the program run better (e.g., don't read from floppy so much, *cache* some data!). I don't even think I cared much about using `goto`, and I liberally used global variables since I'd no reason to not use them, and I definitely didn't even know the word "Architecture" applied to software. But the programs got written, they worked, and I had a ton of fun. Fun is important, by the way! When we give a kid a bucket of Legos we don't also say, "Here are the best practices for assembling these. Please build Legos this way."  We just encourage them to build.
 
