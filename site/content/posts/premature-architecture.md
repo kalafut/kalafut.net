@@ -17,6 +17,7 @@ We got our first computer in 1986, and it looked like this:
 
 
 ![](/img/att_6300.png)
+(*[Credit](https://koney-scanlines.tumblr.com/post/665571563636162560/att-6300)*)
 
 Sitting at a DOS prompt and then starting [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC) was pretty much how everything began for me for quite a while. I just wanted to make the computer do things (like, for example, drawing a line on the screen), and the resources I had were the inscrutable system manuals (the binders to the left), one book on BASIC from the now-defunct [Borders](https://en.wikipedia.org/wiki/Borders_Group) bookstore, and a lot of time as a kid. Importantly, I *didn't* have the entire internet telling me the right way, best practices, don't do that, OMG did you really just, etc. etc. I just wrote code however the hell I wanted until the program worked like I thought it should. The code was just a means to an end, which was a working program.
 
