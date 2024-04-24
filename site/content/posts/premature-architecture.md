@@ -41,6 +41,6 @@ This cavalier approach is all good, but what about the real world, with companie
 
 Likewise, if you *enjoy* the elements of architecture and derive joy from your code being structured just so, then by all means, go for it! I, for example, really got into OO programming and thoroughly enjoyed trying to leverage patterns from the "[Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns)" book. The problems arise when you're not producing because you're spending your time reading Medium articles and are paralyzed trying to pick a state management solution.
 
-If you're getting started and want to build an app, get it built however you can. Your #1 enemy is losing momentum, so make progress first and foremost. (No extra points will be awarded if it looks like [Enterprise Fizz Buzz](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition).)
+If you're getting started and want to build an app, get it built however you can. Your #1 enemy is loss of momentum, so make progress first and foremost. (No extra points will be awarded if it looks like [Enterprise Fizz Buzz](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition).)
 
 And remember... right now, somewhere, someone is getting paid to ship spaghetti code using jQuery v1, without tests. It will enter the world and probably work fine.
