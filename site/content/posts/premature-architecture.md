@@ -3,13 +3,13 @@ title: Premature Architecture
 date: 2024-04-24T17:47:54.247Z
 draft: false
 ---
-A few months ago, I started learning [Flutter](https://flutter.dev/) to build an app I'd been thinking about for a while. I joined the various Flutter-centric communities and followed developers who were active in the space. Overall, I've thoroughly enjoyed both the framework and the community dialog. But one element jumped out right away: a tremendous amount of material put out in social media and spammy Medium posts bikeshedding over what I considered "big software" topics like architecture. I was taken aback since most of the Flutter usage was for building a mobile app, and it was often done by a single developer. Whatever gets these people over the finish line is they needed, so all this Architecture discussion seemed like quite a distraction. There has been some pushback, for example, this excellent tweet thread:
+A few months ago, I started learning [Flutter](https://flutter.dev/) to build an app I'd been thinking about for a while. I joined the various Flutter-centric communities and followed developers who were active in the space. Overall, I've thoroughly enjoyed both the framework and the community dialog. But one element jumped out right away: a tremendous amount of material put out in social media and spammy Medium posts bikeshedding over what I considered "big software" topics like architecture. I was taken aback since most of the Flutter usage was for building a mobile app, and it was often done by a single developer. Whatever gets these people over the finish line is what they needed, so all this Architecture discussion seemed like quite a distraction. There has been some pushback, for example, this excellent tweet thread:
 
 https://x.com/peteralexbizjak/status/1783015772463263938
 
 *(Apologies to those without a Twitter account who can't view the thread. Thanks Elon.)*
 
-This topic has been gnawing at me enough to actually write a blog post, but first, a little history about how I was first introduced to programming.
+This topic has been gnawing at me enough to actually write a blog post, but first, a little history about how I was introduced to programming.
 
 ### Foundations
 
@@ -24,7 +24,7 @@ As I progressed, got a modem and access to more material, and got some more book
 
 ### Premature Architecture
 
-Back to Flutter. When I started seeing big discussions about architecture (Service Oriented Architecture, Domain Driven Design, Clean, etc.), I was surprised because those are things I'd associated with large systems being maintained by many people. Uncle Bob agrees:
+Back to Flutter. When I started seeing big discussions about architecture (Service Oriented Architecture, Domain Driven Design, Clean, etc.), I was surprised because those are things I'd associated with large systems being maintained by many people. [Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin) agrees:
 
 > The goal of software architecture is to minimize the human resources required to build and maintain the required system.
 
