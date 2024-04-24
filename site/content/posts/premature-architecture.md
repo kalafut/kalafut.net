@@ -29,7 +29,7 @@ Back to Flutter. When I started seeing big discussions about architecture (Servi
 
 > The goal of software architecture is to minimize the human resources required to build and maintain the required system.
 
-When a group of people, especially a large group with people coming and going, need to collaborate on a project, the coordination and integration of their work becomes a dominant factor, and architectures can help provide useful guardrails. But what about the solo developer (or tiny team) building a mobile app?
+When a group of people, especially a large group with people coming and going, needs to collaborate on a project, the coordination and integration of their work becomes a dominant factor, and architectures can help provide useful guardrails. But what about the solo developer (or tiny team) building a mobile app?
 
 When I learned about the [Small-angle approximation](https://en.wikipedia.org/wiki/Small-angle_approximation) the concept had a lasting impact. In short, for small angles, *sin θ ≈ θ*. This was math saying, "Eh, good enough."  You can find many similar "for small n..." type arguments, and I think most of us (myself included!) don't heed them enough. If we're talking about a solo developer building a mobile app, we can comfortably start with that being a "small n" situation.
 
