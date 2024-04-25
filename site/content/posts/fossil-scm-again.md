@@ -17,7 +17,7 @@ I think the mess is a factor and results in a tool with poorer UX. This is unfor
 
 ## Detailed Findings
 
-Here are some of the key pros and cons that I noted while using Fossil, sorted roughly in order from most to least important. When assessing Fossil, my baseline was always git, or a reasonable alternative to one of the features that Fossil is providing, for example, a UI or ticketing system.
+Here are some of the key pros and cons that I noted while using Fossil, sorted roughly in order from most to least important. When assessing Fossil, my baseline was always `git`, or a reasonable alternative to one of the features that Fossil is providing, for example, a UI or ticketing system.
 #### Pros
 - Most of the basic source control functionality that I use every day in `git` is present in Fossil and behaves as I would expect. It didn’t require much study or relearning to get rolling with it.
 - I really like the simplicity of the `fossil sync` command. I’m comfortable with and understand the way pushing and pulling branches and tags in `git` works, but for most cases, I appreciated just being able to lean on `sync` and know that all information was transferred either up or down, which is almost always what I wanted for my personal projects.
@@ -28,7 +28,7 @@ Here are some of the key pros and cons that I noted while using Fossil, sorted r
 
 #### Cons
 - You can’t edit or delete ticket comments, which are the main content of a ticket. This makes the resulting tickets potentially messy. If I have some inaccuracies in a long comment, the only thing I can do is append a fixed version of the comment, resulting in two nearly identical comments. This is an example where the rigid immutability hurts, because I would really like just to be able to delete a comment.
-- Also due to immutability is how extremely tedious it is to recover if you accidentally check in files you didn’t mean to. In my case, I’d accidentally added a folder with binaries, which bloated the repost size. Even though I noticed this immediately and hadn’t done any sort of sync, there is no easy way to get that stuff out. Fossil has this awkward, hyper-specific "shun" feature to block specific objects from syncing, but I actually ended up pulling a time machine back up from slightly earlier and restarting because I was so annoyed trying to clean the repo. 
+- Also due to immutability is how extremely tedious it is to recover if you accidentally check in files you didn’t mean to. In my case, I’d accidentally added a folder with binaries, which bloated the repo's size. Even though I noticed this immediately and hadn’t done any sort of sync, there is no easy way to get that stuff out. Fossil has this awkward, hyper-specific "shun" feature to block specific objects from syncing, but I actually ended up pulling a time machine back up from slightly earlier and restarting because I was so annoyed trying to clean the repo. 
 - Beyond the comment issue, there is some clunkiness to the ticketing system, such as not being able to unset a field that you previously set. Optional tags, for example, would default to empty/NULL, which is great, but if you set them to anything else, you can’t clear them back to NULL. It is possible to paper over some of these issues via the CLI tool, but it gets cumbersome. For example, here is how I managed to rename a field choice from "Medium" to "B":
 ```bash
 f tick sho 0 | cut -f 2,8 | grep Medium | cut -f 1 | xargs -I {} fossil ticket set {} priority "B"
