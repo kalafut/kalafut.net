@@ -23,6 +23,6 @@ From the [Service Manual](https://web.archive.org/web/20220730161818/http://www.
 
 ![](/img/thunderbolt_coverage.png)
 
-70 dB at 1 mile, 80 dB (Apple Watches will alert "Loud Environment") at 1½ mile, and precisely loud AF dB at 250', which is where our house was.
+70 dB at 1 mile, 80 dB (Apple Watches will alert "Loud Environment") at ½ mile, and precisely loud af dB at 250', which is where our house was.
 
-I left the tornadoes and sirens 15 years ago when we moved to Oregon. I'm happy to not think about tornadoes much, though I do miss a good thunderstorm. 
+I left the tornadoes and sirens 15 years ago when we moved to Oregon. I'm happy to not think about tornadoes much anymore, though I do miss a good thunderstorm. 
