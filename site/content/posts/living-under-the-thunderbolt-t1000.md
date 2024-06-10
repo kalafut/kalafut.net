@@ -3,7 +3,7 @@ title: Living under the Thunderbolt 1000
 date: 2024-06-10T14:51:13.517Z
 draft: false
 ---
-Behold the [Thunderbolt 1000](https://en.wikipedia.org/wiki/Thunderbolt_(siren)) series siren:
+Behold the [Thunderbolt 1000](https://en.wikipedia.org/wiki/Thunderbolt_(siren)) siren:
 
 ![](/img/federal_signal_thunderbolt_1003_head.jpg)
 
