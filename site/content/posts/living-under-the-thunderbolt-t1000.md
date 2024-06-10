@@ -1,7 +1,7 @@
 ---
 title: Living under the Thunderbolt 1000
 date: 2024-06-10T14:51:13.517Z
-draft: true
+draft: false
 ---
 Behold the [Thunderbolt 1000](https://en.wikipedia.org/wiki/Thunderbolt_(siren)) series siren:
 
