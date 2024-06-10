@@ -10,4 +10,4 @@ date: 2022-12-17T20:45:43.472Z
 * Arq (to B2)
 * Apple Photos
 * OmniFocus & Obsidian
-* Hetnzer VPS's
+* Hetzner VPS's
