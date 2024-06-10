@@ -11,7 +11,7 @@ Midwesterners of a certain age will feel their blood run cold when it's blower m
 
 I don't know what the new one sounds like.
 
-The sound really was the stuff of nightmares—my nightmares! Tornado threats loomed large in my youth, and on multiple occasions I ended up driving through their aftermath ([Barneveld](https://en.wikipedia.org/wiki/Tornado_outbreak_of_June_7%E2%80%938,_1984), [Plainfield](https://en.wikipedia.org/wiki/1990_Plainfield_tornado)). For a while I had recurring tornado nightmares, and this siren always featured promimently. This makes sense since they'd run siren tests every month (oh, its *that* Tuesday), and [apparently still do](https://www.naperville.il.us/services/naperville-fire-department/emergency-preparedness/be-informed/outdoor-warning-siren-system/).
+The sound really was the stuff of nightmares—my nightmares! Tornado threats loomed large in my youth, and on multiple occasions I ended up driving through their aftermath ([Barneveld](https://en.wikipedia.org/wiki/Tornado_outbreak_of_June_7%E2%80%938,_1984), [Plainfield](https://en.wikipedia.org/wiki/1990_Plainfield_tornado)). For a while I had recurring tornado nightmares, and this siren always featured promimently. This makes sense since they'd run siren tests every month (oh, it's *that* Tuesday), and [apparently still do](https://www.naperville.il.us/services/naperville-fire-department/emergency-preparedness/be-informed/outdoor-warning-siren-system/).
 
 Now that I've really sold it, if you'd like to experience the Thunderbolt yourself, the internet has you covered with an extremely good recording:
 
@@ -21,7 +21,7 @@ Aside from the startup growl (usually associated with 😱), I vividly remember 
 
 From the [Service Manual](https://web.archive.org/web/20220730161818/http://www.civildefensemuseum.com/sirens/manuals/thunderbolt/Tbolt-2.pdf) we can see exactly how loud:
 
-![](img/thunderbolt_coverage.png)
+![](/img/thunderbolt_coverage.png)
 
 70 dB at 1 mile, 80 dB (Apple Watches will alert "Loud Environment") at 1½ mile, and precisely loud AF dB at 250', which is where our house was.
 
