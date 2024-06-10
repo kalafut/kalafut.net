@@ -14,3 +14,7 @@ The sound really was the stuff of nightmares--my nightmares! Tornado threats loo
 Now that I've really sold it, if you'd like to experience the Thunderbolt yourself, the internet has you covered with an extremely good recording:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d9rRSY0dRIU?si=XdYuhTQw5YUhgj3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Aside from the startup growl (usually associated with 😱), I vividly remember the spooky sounding echos as it winds down, around 1:15 in the video. The echos are surprising given the flat, suburban environment, but it's hard to overstate just how damn loud the thing was.
+
+![](img/thunderbolt_coverage.png)
