@@ -15,4 +15,4 @@ Whereas a Placker closes a loop using plastic, you can instead make a loop with 
 
 By having a loop, you can get a firm hold of the floss, and the floss the floss can’t slip out, no matter how smooth it is. An added advantage is that it is easy to rotate the loop as you floss, which lets you put the entire length to use.
 
-Tying a knot that will hold takes a little practice. I’m no Boy Scout so my approach ended up being moar square knots. I’m sure there is a correct knot for this job. Also, I avoid the super thing/slipper floss, preferring instead the thicker styles as shown.
+Tying a knot that will hold takes a little practice. I’m no Boy Scout so my approach ended up being moar square knots. I’m sure there is a correct knot for this job. Also, I avoid the super thin/slippery floss, preferring instead the thicker styles as shown.
