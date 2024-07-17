@@ -16,9 +16,9 @@ Recently I’ve been rewatching “Battlestar Galactica.” On a rewatch, I feel
 
 But yes. You can skip up to 18 of the show’s 75 episodes. That’s 24% of the series! (Or if you’re really ambitious, you can skip 22 episodes!)
 
-For completists, very good suggestions have been made about where to insert the various miniseries and webisodes. (Another version here.) I am including those where appropriate. But guess what? “Battlestar” isn’t best served by completism.
+For completists, [very good suggestions](https://thunderpeel2001.blogspot.com/2010/02/battlestar-galactica-viewing-order.html) have been made about where to insert the various miniseries and webisodes. ([Another version here](https://web.archive.org/web/20160817194450/http://hubpages.com/entertainment/battlestar-galactica-episode-list-viewing-order).) I am including those where appropriate. But guess what? “Battlestar” isn’t best served by completism.
 
-Here’s the watch list, shaded by must-watch, can-watch and eh-don’t-bother. There are some special groupings that you can omit as well. We’re going to do this in two versions: in the first part, a guide for first-time watchers, with no spoilers. And after that, I’ll make my case.
+Here’s the watch list, shaded by must-watch, can-watch and eh-don’t-bother. There are some special groupings that you can omit as well. We’re going to do this in two versions: in the first part, a guide for first-time watchers, with no spoilers. And after that, I’ll make my case. [*Note: the original shading and grouping seems to have been lost from the Internet Archive copy.*]
 
 A disclaimer: If you skip episodes, you will not just be saving yourself time, yay, but you will also be missing information. In the vast majority of skippable episodes, there is likely one important backstory or plot point or piece of information. For the most part, you’ll be fine. Every once in a while you’ll be like “Oh hey what happened to that person?” or “Hey where did that thing go to/come from?” But guess what: that kind of happens anyway, even if you don’t skip. It’s a big series! And it’s a TV show. Sometimes people, in the age before DVRs, missed episodes and everyone lived. But it’s important that you don’t think you can skip a bunch of episodes and totally NOT notice. Anyway: ONWARD!
 
