@@ -5,7 +5,7 @@ draft: false
 ---
 The article below is **NOT** my creation. I've been searching for an abridged watch/rewatch guide for "Battlestar Galactica" without much success finding one. Months after I started a discussion on Reddit, someone replied with a link to a real gem of a guide from Choire Sicha on the now-defunct [The Awl](https://en.wikipedia.org/wiki/The_Awl). The page lives on in the Internet Archive, but I wanted to make it a bit more discoverable for folks since crawlers probably won't surface it. The only edits are light formatting.
 
-[Archived copy of original](https://web.archive.org/web/20201111210528/)
+[Archived copy of original](https://web.archive.org/web/20201111210528/https://www.theawl.com/2012/07/how-to-watch-battlestar-galactica/)
 
 ---
 ## How to Watch "Battlestar Galactica"
