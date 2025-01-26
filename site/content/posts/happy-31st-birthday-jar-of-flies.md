@@ -5,5 +5,5 @@ draft: false
 ---
 ![](/img/alice-in-chains-jar-of-flies-1.jpg)
 
-Alice in Chains' [Jar of Flies](https://en.wikipedia.org/wiki/Jar_of_Flies) is one of my all time favorites! It reliably teleports me back the mid-90s Lübeck, Germany. A completely different life.
+Alice in Chains' [Jar of Flies](https://en.wikipedia.org/wiki/Jar_of_Flies) is one of my all time favorites! It reliably teleports me back the mid-90s, living in Lübeck, Germany. A completely different life.
 
