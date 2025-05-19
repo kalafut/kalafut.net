@@ -7,7 +7,7 @@ I don't watch much TV these days. I used to watch more and have found that good 
 
 I remember dozens of fun ([Friends](https://www.youtube.com/watch?v=s2TyVQGoCYo)), catchy ([The Jeffersons](https://www.youtube.com/watch?v=_-OnRQ4P0VY)), cool ([Knight Rider ](https://www.youtube.com/watch?v=oNyXYPhnUIs)& [Airwolf](https://www.youtube.com/watch?v=ULfmowbNlK0)) themes from my earlier, but the best intros are more recent and manage to capture the vibe of a whole show in under two minutes.
 
-It wasn't easy to pare it down to five, nor rank them, but here are mine:.
+It wasn't easy to pare it down to five, nor rank them, but here are mine:
 
 1. [The Sopranos](https://www.youtube.com/watch?v=mJpNmYeooQE)
 2. [House of Cards](https://www.youtube.com/watch?v=9w-O60x1bYk)
