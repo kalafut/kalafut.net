@@ -5,7 +5,7 @@ draft: false
 ---
 I don't watch much TV these days. I used to watch more and have found that good intro/title sequences hold as many memories for me as the show.
 
-I remember dozens of fun ([Friends](https://www.youtube.com/watch?v=s2TyVQGoCYo)), catchy ([The Jeffersons](https://www.youtube.com/watch?v=_-OnRQ4P0VY)), cool ([Knight Rider ](https://www.youtube.com/watch?v=oNyXYPhnUIs)& [Airwolf](https://www.youtube.com/watch?v=ULfmowbNlK0)) themes from my earlier, but the best intros are more recent and manage to capture the vibe of a whole show in under two minutes.
+I remember dozens of fun ([Friends](https://www.youtube.com/watch?v=s2TyVQGoCYo)), catchy ([The Jeffersons](https://www.youtube.com/watch?v=_-OnRQ4P0VY)), cool ([Knight Rider ](https://www.youtube.com/watch?v=oNyXYPhnUIs)& [Airwolf](https://www.youtube.com/watch?v=ULfmowbNlK0)) themes from earlier, but the best intros are a bit more recent and manage to capture the vibe of a whole show in under two minutes.
 
 It wasn't easy to pare it down to five, nor rank them, but here are mine:
 
