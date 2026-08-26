@@ -1,0 +1,13 @@
+# Serves the Hugo output as an assets-only Worker: no Worker script, no `main`.
+# Requests that match a file are served straight from Cloudflare's edge.
+name = "kalafut-net"
+compatibility_date = "2026-08-26"
+
+[assets]
+directory = "./dist"
+
+# Serve site/static/404.html for unmatched paths, like GitHub Pages did.
+not_found_handling = "404-page"
+
+# /posts/foo/ -> posts/foo/index.html, matching Hugo's ugly-URL-free output.
+html_handling = "auto-trailing-slash"
