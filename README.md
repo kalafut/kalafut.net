@@ -38,19 +38,3 @@ on every run.
 Posts are in `site/content/posts/`, standalone pages in `site/content/page/`.
 
 `dateify.py` backfills a `date:` field into front matter from the filename.
-
-## CMS
-
-`/admin` serves [Netlify CMS](https://www.netlifycms.org/) (config in
-`site/static/admin/config.yml`), loaded from a CDN. It currently uses the
-`git-gateway` backend, which depends on Netlify Identity.
-
-To run it locally:
-
-```
-npx netlify-cms-proxy-server   # in a separate terminal
-```
-
-then visit `/admin` on the local Hugo server. `local_backend: true` is already
-set in the config. Publishing locally writes files to disk only — commit and
-push to actually publish.
