@@ -11,3 +11,8 @@ not_found_handling = "404-page"
 
 # /posts/foo/ -> posts/foo/index.html, matching Hugo's ugly-URL-free output.
 html_handling = "auto-trailing-slash"
+
+# Binds the Worker to the live hostname. Cloudflare manages the DNS record.
+routes = [
+  { pattern = "kalafut.net", custom_domain = true }
+]
