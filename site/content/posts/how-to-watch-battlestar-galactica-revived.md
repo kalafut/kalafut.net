@@ -1,5 +1,5 @@
 ---
-title: How to Watch "Battlestar Galactica" (Revived)
+title: How to Watch "Battlestar Galactica" (Preserved)
 date: 2024-07-17T14:51:10.060Z
 draft: false
 ---
