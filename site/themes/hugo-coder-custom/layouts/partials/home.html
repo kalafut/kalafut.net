@@ -1,0 +1,16 @@
+<section class="container centered">
+  <section class="container list">
+    {{ .Content }}
+    <ul>
+      {{ range .Site.RegularPages }}
+      {{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+      {{ else }}
+      <li>
+        <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+        <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+      {{ end }}
+    </ul>
+  </section>
+</section>

@@ -1,9 +1,7 @@
-node_modules/
-dist/
-site/data/webpack.json
-/npm-debug.log
-yarn-error.log
-.netlify/
 .DS_Store
 .hugo_build.lock
-site/public
+public/
+site/public/
+
+# Hugo Pipes asset cache — regenerated on every build
+**/resources/_gen/

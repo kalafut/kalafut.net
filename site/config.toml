@@ -1,12 +1,11 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+locale = "en-us"
 title = "Jim Kalafut"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "term"]
 theme="hugo-coder-custom"
 
 [params]
