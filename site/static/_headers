@@ -1,0 +1,13 @@
+# Read by Cloudflare Workers static assets; not served as a file.
+# Default for everything is "public, max-age=0, must-revalidate".
+
+# Hugo Pipes fingerprints these with a content hash, so a new build means a
+# new URL. Safe to cache forever.
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Not fingerprinted, but they only change if the theme's icon font changes.
+/fonts/*
+  Cache-Control: public, max-age=604800
