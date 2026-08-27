@@ -9,5 +9,5 @@ date: 2022-12-17T20:45:43.472Z
 * VS Code
 * Arq (to B2)
 * Apple Photos
-* OmniFocus & Obsidian
+* OmniFocus & Bear
 * Hetzner VPS's
