@@ -4,9 +4,7 @@ date: 2026-11-15T07:47:00+00:00
 draft: false
 comments: false
 ---
-# Learning about draft the smoky way
-
-We have been in our new house for about six months, so we are still learning about it. It has a woodstove, so I’ve spent a fair bit of time trying to learn about that, firewood, and that whole ecosystem. It has been fun!
+We've been in our new house for about six months, so we are still learning about it. It has a woodstove, so I’ve spent a fair bit of time trying to learn about that, firewood, and that whole ecosystem. It has been fun!
 
 We’ve only been using the stove regularly over the past month, now that it is cooler. There aredefinitely some techniquesto learn to get fires started well, and burning at the right temperature, but I thought that I’d been zeroing in on a good lighting process.
 
