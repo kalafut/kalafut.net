@@ -1,13 +1,13 @@
 ---
 title: Kit
 layout: page
-date: 2022-12-17T20:45:43.472Z
 ---
-* 2021 MacBook Pro
-* iPhone 14
-* Fastmail
-* VS Code
-* Arq (to B2)
-* Apple Photos
-* OmniFocus & Bear
-* Hetzner VPS's
+- 2021 MacBook Pro
+- iPhone 17
+- Fastmail
+- Zed, but mostly Rex and chatting with Claude
+- Arq & Restic(to B2)
+- Apple Photos
+- OmniFocus & Bear
+- Hetzner VPS's
+
