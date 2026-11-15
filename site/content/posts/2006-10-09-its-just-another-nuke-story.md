@@ -1,7 +1,7 @@
 ---
 title: "It’s just another nuke story"
 layout: post
-date: 2006-10-09
+date: 2006-10-09T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

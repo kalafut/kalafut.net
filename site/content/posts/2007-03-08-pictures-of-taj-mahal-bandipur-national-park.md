@@ -1,7 +1,7 @@
 ---
 title: "Pictures of Taj Mahal & Bandipur National Park"
 layout: post
-date: 2007-03-08
+date: 2007-03-08T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

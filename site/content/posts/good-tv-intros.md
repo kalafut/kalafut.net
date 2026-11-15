@@ -1,6 +1,6 @@
 ---
 title: Good TV Intros
-date: 2025-05-19T05:10:55.101Z
+date: 2025-05-19T05:10:55+00:00
 draft: false
 ---
 I don't watch much TV these days. I used to watch more, and have found that good intro/title sequences hold as many memories for me as the show.

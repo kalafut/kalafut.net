@@ -1,7 +1,7 @@
 ---
 title: "Indian Fare on Sunday Night"
 layout: post
-date: 2013-04-21
+date: 2013-04-21T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

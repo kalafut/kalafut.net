@@ -1,7 +1,7 @@
 ---
 title: "Tribute to a leader"
 layout: post
-date: 2015-03-25
+date: 2015-03-25T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

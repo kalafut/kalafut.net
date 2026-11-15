@@ -1,7 +1,7 @@
 ---
 title: "Annoyed by endless Subprime Mortgage News"
 layout: post
-date: 2008-07-29
+date: 2008-07-29T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

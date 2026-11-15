@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In defense of DVDs
-date: 2015-08-09
+date: 2015-08-09T00:00:00+00:00
 categories: []
 ---
 I've just re-enabled my Netflix DVD service for the umpteenth time. Streaming is usually

@@ -1,7 +1,7 @@
 ---
 title: "Last Night in P-town"
 layout: post
-date: 2010-05-04
+date: 2010-05-04T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

@@ -1,7 +1,7 @@
 ---
 title: "Eggs just right"
 layout: post
-date: 2009-04-19
+date: 2009-04-19T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

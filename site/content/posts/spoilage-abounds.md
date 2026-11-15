@@ -1,6 +1,6 @@
 ---
 title: Spoilage Abounds
-date: 2023-11-12T07:28:54.595Z
+date: 2023-11-12T07:28:54+00:00
 draft: false
 ---
 I'm one of those people who gets really irritated when even the potential of a movie/TV spoiler arises, and consuming media is becoming very difficult. I just don't get it. For a long time, reviewers, ranging from professionals to some random author in a forum, respected the rule that the viewer should be able to experience the production fully, with little to no foreshadowing of the plot, if that's what they want. But today... good luck navigating the news, discussion sites, streaming services, and media platforms.

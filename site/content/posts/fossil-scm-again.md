@@ -1,6 +1,6 @@
 ---
 title: Fossil SCM (again)
-date: 2024-04-25T18:48:38.440Z
+date: 2024-04-25T18:48:38+00:00
 draft: false
 ---
 I’ve been intrigued by [Fossil SCM](https://fossil-scm.org) and have written about it a couple of times ([2016](https://kalafut.net/posts/2016-01-24-git-fast-import/), [2015](https://kalafut.net/posts/2015-01-29-fossil-1/)). The idea of a bundled solution for source control, ticketing, UI, etc., is appealing, so I’ve wanted to find a good opportunity to use Fossil in earnest. Plus, I'm a big SQLite fan, and that is inextricably linked to Fossil both as the storage subsystem, and that they're from the same team.

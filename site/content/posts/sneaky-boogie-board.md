@@ -1,6 +1,6 @@
 ---
 title: Sneaky, Boogie Board
-date: 2023-11-15T06:01:35.698Z
+date: 2023-11-15T06:01:35+00:00
 draft: false
 ---
 [Boogie Boards](https://en.wikipedia.org/wiki/Boogie_board_(product)) are pretty handy for the kids. They’re durable and the batteries last forever. Well, *almost* forever. We just had one die and I was dismayed to see “Battery not user replacable“ on the back. Throw this whole thing away?!?

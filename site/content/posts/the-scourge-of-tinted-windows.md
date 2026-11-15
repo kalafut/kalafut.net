@@ -1,6 +1,6 @@
 ---
 title: The Scourge of Tinted Windows
-date: 2023-08-25T17:50:51.056Z
+date: 2023-08-25T17:50:51+00:00
 draft: false
 ---
 Tinted car windows aren't all bad. Our Highlander has them on the rear side windows, improving comfort and privacy. But tinted front windows are a real annoyance for me as someone not in that car. I don't recall them being as common as they are now. The specific problems this causes:  

@@ -1,7 +1,7 @@
 ---
 title: "Freezing Rain"
 layout: post
-date: 2010-01-20
+date: 2010-01-20T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

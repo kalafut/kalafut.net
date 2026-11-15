@@ -1,7 +1,7 @@
 ---
 title: Fossil to git
 layout: post
-date: 2016-01-24
+date: 2016-01-24T00:00:00+00:00
 draft: false
 ---
 A while back I [dabbled with Fossil SCM](/posts/2015-01-29-fossil-1). I liked parts of it but ended up returning to git. During that experiment,

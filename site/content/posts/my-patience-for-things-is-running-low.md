@@ -1,6 +1,6 @@
 ---
 title: My Patience for "Things" is Running Low
-date: 2022-09-15T15:53:21.846Z
+date: 2022-09-15T15:53:21+00:00
 draft: false
 ---
 [Things](https://culturedcode.com/things) is one of the best designed apps for iOS and Mac, and it has been my task management app of choice for many years. I've been happy with it, and really enjoy its ergonomics vs. Todoist, which I was coming from. Yet my patience is running low.

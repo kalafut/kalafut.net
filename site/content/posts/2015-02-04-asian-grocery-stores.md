@@ -1,7 +1,7 @@
 ---
 title: "Asian Grocery Stores"
 layout: post
-date: 2015-02-04
+date: 2015-02-04T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

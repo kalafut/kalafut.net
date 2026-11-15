@@ -1,7 +1,7 @@
 ---
 title: "Triple a-ha"
 layout: post
-date: 2008-11-18
+date: 2008-11-18T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

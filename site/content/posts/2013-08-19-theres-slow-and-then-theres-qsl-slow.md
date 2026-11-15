@@ -1,7 +1,7 @@
 ---
 title: "There’s slow, and then there’s QSL slow"
 layout: post
-date: 2013-08-19
+date: 2013-08-19T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

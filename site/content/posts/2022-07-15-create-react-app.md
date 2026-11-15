@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create React App Proxy Setup
-date: 2022-07-15
+date: 2022-07-15T00:00:00+00:00
 ---
 
 A Go/[Fiber](https://gofiber.io) side project I'm working on needs some interactive elements. I started making some additions

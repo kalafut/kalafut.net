@@ -1,7 +1,7 @@
 ---
 title: Staticizing WordPress
 layout: post
-date: 2016-05-21
+date: 2016-05-21T00:00:00+00:00
 ---
 
 I'm very happy to have just ticked off a really old to-do. I converted three old WordPress blogs to static

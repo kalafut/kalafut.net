@@ -1,6 +1,6 @@
 ---
 title: The Subscription Renewal Drill
-date: 2023-07-10T03:43:20.202Z
+date: 2023-07-10T03:43:20+00:00
 draft: false
 ---
 It's that time of year when a few of my news subscriptions come due. That means doing a little dance that saves me hundreds of dollars annually. That I have to go through this routine is borderline immoral, in my opinion. That periodicals will quietly renew for sometimes 5x the "promotional" rate does and should make people's blood boil. And let's name these rates for what they are: 1. the normal rate  2. the "can they abuse you?" rate. Fortunately, these shenanigans are easy to bypass.

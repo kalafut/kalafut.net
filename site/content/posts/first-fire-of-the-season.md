@@ -1,6 +1,6 @@
 ---
 title: First fire of the season
-date: 2026-09-05T16:31:04.267Z
+date: 2026-09-05T16:31:04+00:00
 draft: false
 bearID: 8F1DC11B-F4C1-47EC-853F-0788A6936757
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Pumpkin, oh pumpkin in a can"
 layout: post
-date: 2008-11-22
+date: 2008-11-22T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

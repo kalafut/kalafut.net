@@ -1,6 +1,6 @@
 ---
 title: Floss loops
-date: 2023-09-27T17:54:18.955Z
+date: 2023-09-27T17:54:18+00:00
 draft: false
 ---
 Flossing is important, as your dental hygienist has no doubt reminded you continuously. I really don’t mind the ritual of flossing, but the actual process used to really annoy me for many years until I found this One Weird Trick.

@@ -1,7 +1,7 @@
 ---
 title: "Back to the Blog"
 layout: post
-date: 2011-12-24
+date: 2011-12-24T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Ansible and Fabric"
-date: 2014-01-20
+date: 2014-01-20T00:00:00+00:00
 comments: false
 categories: [ ansible fabric deployment]
 ---

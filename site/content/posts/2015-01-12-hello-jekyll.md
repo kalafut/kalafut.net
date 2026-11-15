@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello Jekyll"
-date:   2015-01-12
+date: 2015-01-12T00:00:00+00:00
 categories: []
 ---
 I want to move this thing to Github, so say hello to [Jekyll][jekyll]. I'm not going

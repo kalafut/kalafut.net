@@ -1,6 +1,6 @@
 ---
 title: Should've AUTOINCREMENTed
-date: 2024-07-08T06:26:14.660Z
+date: 2024-07-08T06:26:14+00:00
 draft: false
 ---
 The [SQLite docs](https://www.sqlite.org/autoinc.html) steer you away from AUTOINCREMENT:

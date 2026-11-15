@@ -1,7 +1,7 @@
 ---
 title: "Fall at Tanner’s Orchard"
 layout: post
-date: 2009-10-10
+date: 2009-10-10T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

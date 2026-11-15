@@ -1,7 +1,7 @@
 ---
 title: "PMP – Done – Checked"
 layout: post
-date: 2012-07-09
+date: 2012-07-09T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

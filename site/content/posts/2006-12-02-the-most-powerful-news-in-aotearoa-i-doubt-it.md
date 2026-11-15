@@ -1,7 +1,7 @@
 ---
 title: "The Most Powerful News in Aotearoa?  I doubt it."
 layout: post
-date: 2006-12-02
+date: 2006-12-02T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

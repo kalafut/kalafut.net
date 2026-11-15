@@ -1,7 +1,7 @@
 ---
 title: "Slowest Common Denominator"
 layout: post
-date: 2009-02-03
+date: 2009-02-03T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

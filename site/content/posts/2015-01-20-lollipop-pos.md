@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "And Suddenly My Best Phone Is Junk"
-date:   2015-01-20
+date: 2015-01-20T00:00:00+00:00
 categories: [ ]
 ---
 I bought the Nexus 4 shortly after it came out. I'd been living through a few

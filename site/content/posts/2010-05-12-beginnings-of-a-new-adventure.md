@@ -1,7 +1,7 @@
 ---
 title: "Beginnings of a new adventure"
 layout: post
-date: 2010-05-12
+date: 2010-05-12T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

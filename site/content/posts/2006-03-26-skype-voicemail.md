@@ -1,7 +1,7 @@
 ---
 title: "Skype Voicemail"
 layout: post
-date: 2006-03-26
+date: 2006-03-26T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

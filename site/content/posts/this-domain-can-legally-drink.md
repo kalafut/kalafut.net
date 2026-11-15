@@ -1,6 +1,6 @@
 ---
 title: Happy Birthday, kalafut.net
-date: 2023-11-03T07:22:16.721Z
+date: 2023-11-03T07:22:16+00:00
 draft: false
 ---
 I just discovered that my kalafut.net domain had a birthday yesterday! It is now **21** years old, first registered by me on 2002-11-02. That’s a long time ago! 

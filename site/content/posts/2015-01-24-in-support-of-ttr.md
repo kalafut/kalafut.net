@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSS? You should probably try TTR"
-date: 2015-01-24
+date: 2015-01-24T00:00:00+00:00
 categories: []
 ---
 As a long-time consumer of RSS feeds, I was shocked along with many others at

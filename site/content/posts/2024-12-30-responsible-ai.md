@@ -1,6 +1,6 @@
 ---
 title: LLM Use In 2025
-date: 2024-12-30T23:00:00.000Z
+date: 2024-12-30T23:00:00+00:00
 draft: false
 ---
 

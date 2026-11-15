@@ -1,6 +1,6 @@
 ---
 title: Meet the New Site, Same As the Old Site
-date: 2022-09-09T16:12:14.572Z
+date: 2022-09-09T16:12:14+00:00
 draft: false
 ---
 While it may look the same, everything to build and deliver this site has changed. Here's a look at what and why.

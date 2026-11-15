@@ -1,6 +1,6 @@
 ---
 title: Happy 31st Birthday, Jar of Flies
-date: 2025-01-25T17:06:00.000Z
+date: 2025-01-25T17:06:00+00:00
 draft: false
 ---
 ![](/img/alice-in-chains-jar-of-flies-1.jpg)

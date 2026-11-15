@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fixing Multi-Track Audio Playback for Plex on Samsung TVs
-date: 2022-02-18
+date: 2022-02-18T00:00:00+00:00
 draft: false
 ---
 

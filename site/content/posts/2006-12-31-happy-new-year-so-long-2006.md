@@ -1,7 +1,7 @@
 ---
 title: "Happy New Year, So Long 2006"
 layout: post
-date: 2006-12-31
+date: 2006-12-31T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

@@ -1,7 +1,7 @@
 ---
 title: Task Management Systems
 layout: post
-date: 2017-07-03
+date: 2017-07-03T00:00:00+00:00
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Passing slices to variadic functions"
-date: 2015-01-18
+date: 2015-01-18T00:00:00+00:00
 categories: [ golang]
 ---
 I knew about variadic functions, and the "..." syntax, but I'd assumed that was

@@ -1,7 +1,7 @@
 ---
 title: "Port Hills (I)"
 layout: post
-date: 2006-09-18
+date: 2006-09-18T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

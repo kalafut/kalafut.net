@@ -1,6 +1,6 @@
 ---
 title: Static Hosting with S3 and Cloudflare
-date: 2024-01-05T16:43:00.614Z
+date: 2024-01-05T16:43:00+00:00
 draft: false
 ---
 I've used both AWS S3 and Cloudflare for a long time, often to deliver simple static hosting with a TLS posture. 99.9% of the time I'm just updating the content, but every few years I need to set up a brand new domain, and this gives me angst.

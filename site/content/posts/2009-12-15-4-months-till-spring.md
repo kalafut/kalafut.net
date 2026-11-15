@@ -1,7 +1,7 @@
 ---
 title: "4 months till Spring"
 layout: post
-date: 2009-12-15
+date: 2009-12-15T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

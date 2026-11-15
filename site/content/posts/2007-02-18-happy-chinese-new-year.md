@@ -1,7 +1,7 @@
 ---
 title: "Happy Chinese New Year!"
 layout: post
-date: 2007-02-18
+date: 2007-02-18T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

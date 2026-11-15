@@ -1,7 +1,7 @@
 ---
 title: "Heed NOAA weather warnings"
 layout: post
-date: 2009-03-08
+date: 2009-03-08T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

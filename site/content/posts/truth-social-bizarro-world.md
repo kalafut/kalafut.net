@@ -1,6 +1,6 @@
 ---
 title: "Truth Social: Bizarro World"
-date: 2024-03-14T16:30:44.389Z
+date: 2024-03-14T16:30:44+00:00
 draft: false
 ---
 Most of the online places I visit are politically left-leaning. But I’m usually there for the content quality instead of the political persuasion. For example, the NYT is undeniably left-biased, but they do have news with extensive reporting and a lot of data and supporting references. When I visit Fox News, it is mostly just ads for catheters and testosterone therapy, plus some salacious Hollywood gossip. Even the comments complain about how little news is there. (Note: I’m specifically talking about the website. A select few Fox TV programs are pretty good.)

@@ -1,7 +1,7 @@
 ---
 title: "The Sky Is Falling"
 layout: post
-date: 2006-09-12
+date: 2006-09-12T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

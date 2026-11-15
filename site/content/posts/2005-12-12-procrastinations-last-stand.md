@@ -1,7 +1,7 @@
 ---
 title: "Procrastination’s last stand"
 layout: post
-date: 2005-12-12
+date: 2005-12-12T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

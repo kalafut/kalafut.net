@@ -1,6 +1,6 @@
 ---
 title: Pump It Up, Oregon
-date: 2023-08-10T02:04:24.846Z
+date: 2023-08-10T02:04:24+00:00
 draft: false
 ---
 Today, I pumped my own gas. In Oregon. It's about damn time! After the better part of a century, Oregon has finally [eliminated its silly no-self-serve law](https://apnews.com/article/oregon-gas-pump-station-new-jersey-selfserve-10d7a467ab0fd9c6d15f2cb2769b00ce).

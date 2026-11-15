@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Jekyll?"
-date: 2015-01-22
+date: 2015-01-22T00:00:00+00:00
 comments: false
 categories: []
 ---

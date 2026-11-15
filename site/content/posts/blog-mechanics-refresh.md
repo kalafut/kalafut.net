@@ -1,6 +1,6 @@
 ---
 title: Blog mechanics refresh
-date: 2026-08-29T23:54:40.928Z
+date: 2026-08-29T23:54:40+00:00
 draft: false
 bearID: 2C3393DD-AC57-4AD0-AAB5-5DFB475E7AD0
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monitoring Go apps with Distributed Tracing and OpenTelemetry
-date: 2022-04-19
+date: 2022-04-19T00:00:00+00:00
 ---
 
 *I'm a happy user of [Bun](https://bun.uptrace.dev/) and like the work being done at Uptrace. The following is a guest post

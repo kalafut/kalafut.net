@@ -1,7 +1,7 @@
 ---
 title: "DIY Project 1:  Understairway storage"
 layout: post
-date: 2012-09-15
+date: 2012-09-15T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

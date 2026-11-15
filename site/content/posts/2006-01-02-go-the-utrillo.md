@@ -1,7 +1,7 @@
 ---
 title: "Go the Utrillo!"
 layout: post
-date: 2006-01-02
+date: 2006-01-02T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

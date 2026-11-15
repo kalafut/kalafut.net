@@ -1,7 +1,7 @@
 ---
 title: "The Digital Future (looking very retro)"
 layout: post
-date: 2009-04-07
+date: 2009-04-07T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

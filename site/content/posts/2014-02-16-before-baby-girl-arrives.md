@@ -1,7 +1,7 @@
 ---
 title: "Before Baby Girl Arrives"
 layout: post
-date: 2014-02-16
+date: 2014-02-16T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

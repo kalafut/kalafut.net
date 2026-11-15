@@ -1,7 +1,7 @@
 ---
 title: "Bye-bye Peoria"
 layout: post
-date: 2010-05-05
+date: 2010-05-05T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

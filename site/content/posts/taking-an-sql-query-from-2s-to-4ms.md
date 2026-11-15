@@ -1,6 +1,6 @@
 ---
 title: Taking an SQL query from 2s to 4ms
-date: 2024-02-14T18:46:05.545Z
+date: 2024-02-14T18:46:05+00:00
 draft: false
 ---
 I don't write much SQL and I rarely have to do performance optimization since systems are so fast relative to my data sizes. But I have a homegrown logging system that using SQLite files in the hundreds of MBs that started slowing down noticeably on queries. This wasn't a big deal for usage, but it bugged me as to *why* things were slower so I went digging into the offending query:

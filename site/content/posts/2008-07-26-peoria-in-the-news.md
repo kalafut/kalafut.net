@@ -1,7 +1,7 @@
 ---
 title: "Peoria in the news"
 layout: post
-date: 2008-07-26
+date: 2008-07-26T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

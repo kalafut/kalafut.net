@@ -1,7 +1,7 @@
 ---
 title: "Package from Home"
 layout: post
-date: 2010-02-14
+date: 2010-02-14T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

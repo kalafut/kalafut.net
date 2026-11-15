@@ -1,7 +1,7 @@
 ---
 title: Text-based Taxes
 layout: post
-date: 2016-03-24
+date: 2016-03-24T00:00:00+00:00
 ---
 
 It's that time of year again: I start thinking about how inefficient the tax preparation

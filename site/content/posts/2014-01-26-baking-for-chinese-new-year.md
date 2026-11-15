@@ -1,7 +1,7 @@
 ---
 title: "Baking for Chinese New Year"
 layout: post
-date: 2014-01-26
+date: 2014-01-26T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

@@ -1,7 +1,7 @@
 ---
 title: "A bunch of crock???"
 layout: post
-date: 2006-11-10
+date: 2006-11-10T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

@@ -1,7 +1,7 @@
 ---
 title: "A Famous Photo at Last"
 layout: post
-date: 2007-08-29
+date: 2007-08-29T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:

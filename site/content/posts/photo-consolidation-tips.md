@@ -1,6 +1,6 @@
 ---
 title: Photo consolidation tips
-date: 2023-10-08T18:22:01.929Z
+date: 2023-10-08T18:22:01+00:00
 draft: true
 ---
 I'm trying to once and for all get all of my photos and videos into Apple Photos. I've been using it as my main app for years, and a lot of stuff is already there, but there are plenty of old photo archives from previous setups, various backups and migrations, and one-off duplicate folders of stuff for who knows what purpose. My concern about losing data has resulted in a highly duplicated message of 100s of GBs.

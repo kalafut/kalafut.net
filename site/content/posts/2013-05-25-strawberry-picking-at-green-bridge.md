@@ -1,7 +1,7 @@
 ---
 title: "Strawberry Picking at Green Bridge"
 layout: post
-date: 2013-05-25
+date: 2013-05-25T00:00:00+00:00
 ---
 
 This pre-2014 post has been preserved as a static version of the original Wordpress post:
