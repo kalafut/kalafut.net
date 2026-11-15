@@ -1,0 +1,73 @@
+media:
+  input: site/static/img
+  output: /img
+
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: site/content/posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [title, date, draft]
+      primary: title
+      sort: [date, title]
+      search: [title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        options:
+          time: true
+      - name: draft
+        label: Draft
+        type: boolean
+        default: false
+      # Legacy keys, declared hidden so they survive edits to old posts.
+      - name: layout
+        type: string
+        hidden: true
+      - name: categories
+        type: string
+        list: true
+        hidden: true
+      - name: comments
+        type: boolean
+        hidden: true
+      - name: bearID
+        type: string
+        hidden: true
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          format: markdown
+
+  - name: pages
+    label: Pages
+    type: collection
+    path: site/content/page
+    filename: "{primary}.md"
+    view:
+      fields: [title]
+      primary: title
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: layout
+        type: string
+        hidden: true
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          format: markdown
