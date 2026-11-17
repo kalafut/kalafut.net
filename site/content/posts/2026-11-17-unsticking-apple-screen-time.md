@@ -6,7 +6,7 @@ comments: false
 ---
 While not quite as [bad as Siri](/posts/2026-11-17-will-apple-ever-not-suck-at-ai/), Apple Screen Time is historically very buggy. This is particularly frustrating because it impacts others (namely my kids) and can be quite disruptive when it fails "locked" when it shouldn't.
 
-After spending too much time trying to figure out what I've been doing wrong, I've decided this is all Apple's fault. Why? Because the most reliable way to fix Screen Time issues is akin to "rebooting to router". Doing this from *my* device seems to work:
+After spending too much time trying to figure out what I've been doing wrong, I've decided this is all Apple's fault. Why? Because the most reliable way to fix Screen Time issues is akin to "rebooting to router". Doing this for a child account from *my* device seems to work:
 
 1. Turn off Downtime
 2. Turn off App Limits
