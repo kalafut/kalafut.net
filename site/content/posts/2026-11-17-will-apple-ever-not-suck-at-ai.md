@@ -9,7 +9,7 @@ Gotta vent!
 In the past day I've had Apple:
 
 1. be unable to find any photos match the query "basketball game" (there are hundreds)
-2. when asked for the "weather in Salem" (Oregon, 30 miles away), guve me the weather in [Salem, India](https://en.wikipedia.org/wiki/Salem,_Tamil_Nadu)
+2. when asked for the "weather in Salem" (Oregon, 30 miles away), give me the weather in [Salem, India](https://en.wikipedia.org/wiki/Salem,_Tamil_Nadu)
 3. when asked to proofread four paragraphs of text, simply refuse:
 
 ![image.png](/img/image.png)
