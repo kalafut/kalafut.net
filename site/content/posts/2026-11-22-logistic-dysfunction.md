@@ -14,7 +14,7 @@ It was and is a marvel. Receiving an item a few hours after you order it—as a 
 
 My watch got smashed, but that’s covered under Apple Care so I wanted to send it in. The process to get that started? Absolute nightmare. Just endless loops linking “Let’s Get Started!” flows that lead know where, or drop me in some AI-assisted random knowledge base. When I finally got where I needed to be, it was insisting that the repair cost was $199 (not $69). At that point I called Apple, eventually punched my way through the AI clerk, and had a lady tell me it is $69 and that the page is wrong. 🤷‍♂️ … ok… 🤨
 
-I sent the watch in and they received it over 2 weeks ago. Immediate it was classified as “Replace” (correct) and status is “Shipping soon”. Then… nothing. It just sits, no updates, nothing. I’m leaving on a trip soon and didn’t expect it to take a *month* to get a watch back. I reached out via the text support system (the iOS App seems to have no knowledge of any of this). Here’s the ultra-productive conversation:
+I sent the watch in and they received it over 2 weeks ago. Immediate it was classified as “Replace” (correct) and status is “Shipping soon”. Then… nothing. It just sits, no updates, nothing. I’m leaving on a trip soon and didn’t expect it to take a *month* to get a watch back. I reached out via the text support system (the dedicated iOS Support App seems to have no knowledge of any of this). Here’s the ultra-productive conversation:
 
 ![image.png](/img/image-1.png)
 
